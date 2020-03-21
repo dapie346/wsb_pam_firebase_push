@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "537431044105",
+    "firebase_url": "https://wsb-project-4711b.firebaseio.com",
+    "project_id": "wsb-project-4711b",
+    "storage_bucket": "wsb-project-4711b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537431044105:android:8f82e8e8c8b6250ce488d8",
+        "android_client_info": {
+          "package_name": "pl.dapie.wsb.firebasepush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537431044105-rl86eii17me16u6n2aa0lrnfh17f0e1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATv5D_GQESYY32I95ExUu4mPNfuBoJeY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537431044105-rl86eii17me16u6n2aa0lrnfh17f0e1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
